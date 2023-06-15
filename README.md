@@ -1,6 +1,6 @@
-# **Projeto-pokebola
+# **Projeto-pokebola**
 
-Listagem de pokémons estilo *pokedex!
+Listagem de pokémons estilo *pokedex!*
 
 **Tarefas
 
